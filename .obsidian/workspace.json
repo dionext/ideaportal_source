@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "5ef28f919661acce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d546dc627d3ad731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d3e2c4c5d61d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ru/aboutaphorisms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aboutaphorisms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "492c05d87aaf06fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bb3d330f53a07c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a01a00ee566e6a72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14b6be3ffaccdf48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cf283cf8300c1b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "a14f961066cee822",
+    "type": "split",
+    "children": [
+      {
+        "id": "991b5f85897797ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f3d4024e2e93ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ru/aboutaphorisms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for aboutaphorisms"
+            }
+          },
+          {
+            "id": "f0e6d11439016756",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ru/aboutaphorisms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from aboutaphorisms"
+            }
+          },
+          {
+            "id": "17ebca3e9271aaf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "af59b1bd0e927ac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ru/aboutaphorisms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of aboutaphorisms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04d3e2c4c5d61d9b",
+  "lastOpenFiles": [
+    "ru/razdely/russkaya-ideya/14-o-russkoj-religioznoj-filosofii-kontsa-xix-nachala-xx-veka.md",
+    "ru/razdely/russkaya-ideya/13-istoki-i-smysl-russkogo-kommunizma.md",
+    "ru/razdely/russkaya-ideya/12-russkaya-ideya.md",
+    "ru/razdely/russkaya-ideya/11-rossiyane-o-samikh-sebe-i-okruzhayushchem-mire.md",
+    "ru/razdely/russkaya-ideya/10-psikhicheskaya-ataka-na-russkij-kharakter.md",
+    "ru/razdely/russkaya-ideya/9-russkaya-ideya-po-materialam-entsiklopedij.md",
+    "ru/razdely/russkaya-ideya/8-solidarnost-i-sobornost.md",
+    "ru/razdely/ideologiya/7-problema-ideologii-v-tvorchestve-karla-marksa.md",
+    "ru/razdely/ideologiya/6-ideologiya-i-ideya-opredeleniya.md",
+    "ru/razdely/ideologiya/5-ideologiya-soloma-dlya-utopayushchikh.md",
+    "ru/razdely/ideologiya/4-vo-chto-ya-veryu.md",
+    "ru/razdely/ideologiya/3-k-voprosu-o-roli-ideologii-v-sovremennom-gosudarstve.md",
+    "ru/razdely/ideologiya/2-kratkaya-istoriya-ponyatiya-ideologiya-v-period-s-nachala-xix-veka.md",
+    "ru/razdely/ideologiya/1-platon-gosudarstvo.md",
+    "ru/razdely/filosofiya/16-rodoslovnaya-altruizma.md",
+    "ru/razdely/filosofiya/17-o-filosofii.md",
+    "ru/razdely/filosofiya/filosofskaya-aforistika/21-anglijskie-aforizmy.md",
+    "ru/razdely/filosofiya/filosofskaya-aforistika/20-kniga-razmyshlenij.md",
+    "ru/razdely/filosofiya/filosofskaya-aforistika/18-i-i-lapshin-znachenie-aforizma-dlya-razvitiya-filosofskikh-znanij.md",
+    "ru/razdely/filosofiya/filosofskaya-aforistika/19-traditsii-filosofskoj-aforistiki.md",
+    "ru/razdely/filosofiya/15-vvodno-obzornaya-lektsiya-iz-tsikla-obshchestvennaya-mysl-xx-veka-prakticheski-tsennoe-dlya-politicheskogo-radikala-nashikh-dnej.md",
+    "ru/content.md",
+    "ru/ideology.md",
+    "ru/index.md"
+  ]
+}
