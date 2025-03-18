@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ru/aboutaphorisms.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aboutaphorisms"
+              "title": "index"
             }
           }
         ]
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04d3e2c4c5d61d9b",
+  "active": "a01a00ee566e6a72",
   "lastOpenFiles": [
+    "ru/ideology.md",
+    "ru/aboutaphorisms.md",
     "ru/razdely/russkaya-ideya/14-o-russkoj-religioznoj-filosofii-kontsa-xix-nachala-xx-veka.md",
     "ru/razdely/russkaya-ideya/13-istoki-i-smysl-russkogo-kommunizma.md",
     "ru/razdely/russkaya-ideya/12-russkaya-ideya.md",
@@ -192,7 +194,6 @@
     "ru/razdely/filosofiya/filosofskaya-aforistika/19-traditsii-filosofskoj-aforistiki.md",
     "ru/razdely/filosofiya/15-vvodno-obzornaya-lektsiya-iz-tsikla-obshchestvennaya-mysl-xx-veka-prakticheski-tsennoe-dlya-politicheskogo-radikala-nashikh-dnej.md",
     "ru/content.md",
-    "ru/ideology.md",
     "ru/index.md"
   ]
 }
