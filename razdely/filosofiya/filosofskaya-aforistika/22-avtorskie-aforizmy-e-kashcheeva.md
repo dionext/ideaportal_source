@@ -8,7 +8,8 @@ aliases:
   - "razdely/filosofiya/filosofskaya-aforistika/22-avtorskie-aforizmy-e-kashcheeva"
 ---
 
-# "Авторские афоризмы. Е.Кащеева"
+
+# "Авторские афоризмы. Е.Кащеева"
 
 Выиграть по лотерейному билету автомобиль, всё равно, что выиграть по железнодорожному билету - поезд.
 
@@ -102,8 +103,5 @@ aliases:
 
 (С) Кащеев Евгений
 
-\[ail@mail15.com\](mailto:\<a href=)"\>mailto:[ail@mail15.com](mailto:ail@mail15.com)
-
 [http://www.kaschey.by.ru](http://www.kaschey.by.ru)
 
-[http://www.izdat.ru](http://www.izdat.ru)[:8001/author.html?eugene27\&num=1](http://www.izdat.ru:8001/author.html?eugene27&num=1)

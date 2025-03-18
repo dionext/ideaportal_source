@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "razdely/russkaya-ideya/14-o-russkoj-religioznoj-filosofii-kontsa-xix-nachala-xx-veka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "14-o-russkoj-religioznoj-filosofii-kontsa-xix-nachala-xx-veka"
             }
           }
         ]
@@ -150,8 +150,33 @@
               "icon": "lucide-list",
               "title": "Outline of aboutaphorisms"
             }
+          },
+          {
+            "id": "b4b47189a9445bf5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "38f261e8906374ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -165,35 +190,39 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a01a00ee566e6a72",
+  "active": "04d3e2c4c5d61d9b",
   "lastOpenFiles": [
-    "ru/ideology.md",
-    "ru/aboutaphorisms.md",
-    "ru/razdely/russkaya-ideya/14-o-russkoj-religioznoj-filosofii-kontsa-xix-nachala-xx-veka.md",
-    "ru/razdely/russkaya-ideya/13-istoki-i-smysl-russkogo-kommunizma.md",
-    "ru/razdely/russkaya-ideya/12-russkaya-ideya.md",
-    "ru/razdely/russkaya-ideya/11-rossiyane-o-samikh-sebe-i-okruzhayushchem-mire.md",
-    "ru/razdely/russkaya-ideya/10-psikhicheskaya-ataka-na-russkij-kharakter.md",
-    "ru/razdely/russkaya-ideya/9-russkaya-ideya-po-materialam-entsiklopedij.md",
-    "ru/razdely/russkaya-ideya/8-solidarnost-i-sobornost.md",
-    "ru/razdely/ideologiya/7-problema-ideologii-v-tvorchestve-karla-marksa.md",
-    "ru/razdely/ideologiya/6-ideologiya-i-ideya-opredeleniya.md",
-    "ru/razdely/ideologiya/5-ideologiya-soloma-dlya-utopayushchikh.md",
-    "ru/razdely/ideologiya/4-vo-chto-ya-veryu.md",
-    "ru/razdely/ideologiya/3-k-voprosu-o-roli-ideologii-v-sovremennom-gosudarstve.md",
-    "ru/razdely/ideologiya/2-kratkaya-istoriya-ponyatiya-ideologiya-v-period-s-nachala-xix-veka.md",
-    "ru/razdely/ideologiya/1-platon-gosudarstvo.md",
-    "ru/razdely/filosofiya/16-rodoslovnaya-altruizma.md",
-    "ru/razdely/filosofiya/17-o-filosofii.md",
-    "ru/razdely/filosofiya/filosofskaya-aforistika/21-anglijskie-aforizmy.md",
-    "ru/razdely/filosofiya/filosofskaya-aforistika/20-kniga-razmyshlenij.md",
-    "ru/razdely/filosofiya/filosofskaya-aforistika/18-i-i-lapshin-znachenie-aforizma-dlya-razvitiya-filosofskikh-znanij.md",
-    "ru/razdely/filosofiya/filosofskaya-aforistika/19-traditsii-filosofskoj-aforistiki.md",
-    "ru/razdely/filosofiya/15-vvodno-obzornaya-lektsiya-iz-tsikla-obshchestvennaya-mysl-xx-veka-prakticheski-tsennoe-dlya-politicheskogo-radikala-nashikh-dnej.md",
-    "ru/content.md",
-    "ru/index.md"
+    "razdely/russkaya-ideya/13-istoki-i-smysl-russkogo-kommunizma.md",
+    "razdely/russkaya-ideya/12-russkaya-ideya.md",
+    "razdely/russkaya-ideya/11-rossiyane-o-samikh-sebe-i-okruzhayushchem-mire.md",
+    "razdely/russkaya-ideya/10-psikhicheskaya-ataka-na-russkij-kharakter.md",
+    "razdely/russkaya-ideya/9-russkaya-ideya-po-materialam-entsiklopedij.md",
+    "razdely/russkaya-ideya/8-solidarnost-i-sobornost.md",
+    "razdely/ideologiya/7-problema-ideologii-v-tvorchestve-karla-marksa.md",
+    "razdely/ideologiya/6-ideologiya-i-ideya-opredeleniya.md",
+    "razdely/ideologiya/5-ideologiya-soloma-dlya-utopayushchikh.md",
+    "razdely/ideologiya/4-vo-chto-ya-veryu.md",
+    "razdely/ideologiya/3-k-voprosu-o-roli-ideologii-v-sovremennom-gosudarstve.md",
+    "razdely/ideologiya/2-kratkaya-istoriya-ponyatiya-ideologiya-v-period-s-nachala-xix-veka.md",
+    "razdely/ideologiya/1-platon-gosudarstvo.md",
+    "razdely/filosofiya/filosofskaya-aforistika/22-avtorskie-aforizmy-e-kashcheeva.md",
+    "razdely/filosofiya/filosofskaya-aforistika/21-anglijskie-aforizmy.md",
+    "razdely/filosofiya/filosofskaya-aforistika/20-kniga-razmyshlenij.md",
+    "razdely/filosofiya/filosofskaya-aforistika/19-traditsii-filosofskoj-aforistiki.md",
+    "razdely/filosofiya/filosofskaya-aforistika/18-i-i-lapshin-znachenie-aforizma-dlya-razvitiya-filosofskikh-znanij.md",
+    "razdely/filosofiya/15-vvodno-obzornaya-lektsiya-iz-tsikla-obshchestvennaya-mysl-xx-veka-prakticheski-tsennoe-dlya-politicheskogo-radikala-nashikh-dnej.md",
+    "razdely/filosofiya/16-rodoslovnaya-altruizma.md",
+    "razdely/filosofiya/17-o-filosofii.md",
+    "images/main_banner.jpg",
+    "aboutaphorisms.md",
+    "content.md",
+    "ideology.md",
+    "index.md",
+    "ru/ideology.md"
   ]
 }

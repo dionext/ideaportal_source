@@ -8,7 +8,8 @@ aliases:
   - "razdely/filosofiya/filosofskaya-aforistika/21-anglijskie-aforizmy"
 ---
 
-# "Английские афоризмы"
+
+# "Английские афоризмы"
 
 A billion here, a billion there, and pretty soon you're talking about real money. Everett Dirksen  
 A bird in the hand will probably shit on your wrist. Anon.  
@@ -874,7 +875,7 @@ What we do not understand, we do not possess. J.W. Goethe
 What we imagine is order is merely the prevailing form of chaos. Kerry Thornley, Principia Discordia, 5th edition  
 What we need, gentlemen, is a completely brand new idea that has been thoroughly tested. New Yorker Cartoon  
 Whatever advice you give, be brief. Horace  
-What's this thing? It's called a MODEM. And what's this button for? Whatever you do, don't touc{{{7bh6xx!{@%%hxbd\&$#$% NO CARRIER from Bruce Graham  
+What's this thing? It's called a MODEM. And what's this button for? Whatever you do, don't 
 When a Banker jumps out of a window, jump after him -- that's where the money is. Robespierre  
 When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong. Clarke's First Law  
 When a fellow says it ain't the money but the principle of the thing, it's the money. Kin Hubbard  
